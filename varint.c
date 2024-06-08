@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-// #include "varint.h" - header from separate project
+#include "varint.h"
 
 char* valloc(int i) {
     int size;
